@@ -1,3 +1,3 @@
-<h2>Open Command Prompt</h2><br>
-<h2>Enter This Command</h2>
-npx create-next-app
+#Open Command Prompt
+#Enter This Command
+  npx create-next-app
