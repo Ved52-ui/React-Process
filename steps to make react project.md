@@ -13,7 +13,7 @@
      C:\Your folder\your react app name>code .
 
 # To Make Server Using React
-#### --Open Terminal in VsCode End Enter Below Command
+#### --Open Terminal in VsCode And Enter Below Command
 
      npm run dev
 
