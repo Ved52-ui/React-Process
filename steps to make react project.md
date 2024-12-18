@@ -1,5 +1,8 @@
 # Open Command Prompt
+### Go To Your Folder Where You Wants To Make React Project
+# To Go Inside That Folder Enter Below Command
 
+     cd yourfoldername
 # Enter This Command 
 
     npx create-next-app
